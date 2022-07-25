@@ -1,0 +1,73 @@
+************ Data Agent ************
+
+Nama Agent	: Joni
+Kode Agent	: 235678
+Unit Agent	: Jojon
+
+---------------------------------------
+
+Nama Agent	: Ipul
+Kode Agent	: 987345
+Unit Agent	: Iin
+
+---------------------------------------
+
+Nama Agent	: Uus
+Kode Agent	: 103245
+Unit Agent	: Dedy
+
+---------------------------------------
+
+Nama Agent	: Naruto
+Kode Agent	: 235889
+Unit Agent	: Tsunade
+
+---------------------------------------
+
+Nama Agent	: Ucup
+Kode Agent	: 124568
+Unit Agent	: Otong
+
+---------------------------------------
+
+Nama Agent	: Saipul
+Kode Agent	: 035678
+Unit Agent	: Rudi
+
+---------------------------------------
+
+Nama Agent	: Oong
+Kode Agent	: 445698
+Unit Agent	: Quen
+
+---------------------------------------
+
+Nama Agent	: Sakura
+Kode Agent	: 009823
+Unit Agent	: Ino
+
+---------------------------------------
+
+Nama Agent	: Toni
+Kode Agent	: 456980
+Unit Agent	: Tono
+
+---------------------------------------
+
+Nama Agent	: Kiba
+Kode Agent	: 876009
+Unit Agent	: Shino
+
+---------------------------------------
+
+Nama Agent	: Lee
+Kode Agent	: 876445
+Unit Agent	: Neji
+
+---------------------------------------
+
+Nama Agent	: Ivo
+Kode Agent	: 234556
+Unit Agent	: Ivan
+
+---------------------------------------
